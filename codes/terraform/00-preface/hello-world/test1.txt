@@ -1,3 +1,5 @@
 This is a simple text file to test SSH is working.
 
 Are you able to push to remote repository without getting credential prompts?
+
+Further tests required after slight adjustment of Git URL from https to git format. Does it work seamlessly now?
