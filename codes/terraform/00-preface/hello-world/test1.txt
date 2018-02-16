@@ -1,4 +1,4 @@
-This is a simple text file to test SSH is working.
+Note - This is a simple text file to test SSH is working.
 
 Are you able to push to remote repository without getting credential prompts?
 
